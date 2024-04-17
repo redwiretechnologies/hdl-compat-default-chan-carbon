@@ -1,0 +1,9 @@
+PROJECT_NAME := carbon-carp_default-4rx-chan
+REVISION := rev4.1
+M_CUSTOM_LIBS :=
+M_ADI_LIBS :=
+M_REPOS := hdl-compat-default-chan-carbon
+M_DEPS :=
+
+include ../../../common/carbon-carp/$(REVISION)/scripts/carbon-carp.mk
+include ../../scripts/default-4rx-chan_proj.mk
