@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 PROJECT_NAME := carbon_default-4rx-chan
 REVISION := rev4
 M_CUSTOM_LIBS :=

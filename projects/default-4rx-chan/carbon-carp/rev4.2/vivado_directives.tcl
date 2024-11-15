@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0
+
 set full_board [get_parts -of_objects [get_projects]]
 set board [string range $full_board 4 6]
 
