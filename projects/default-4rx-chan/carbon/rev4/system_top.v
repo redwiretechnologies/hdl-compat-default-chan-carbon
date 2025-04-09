@@ -143,7 +143,6 @@ module system_top (
        .gpio_i (gpio_i),
        .gpio_o (gpio_o),
        .gpio_t(gpio_t),
-       .pps(1'd0),
        .rx_clk_in_0_n (rx_clk_in_0_n),
        .rx_clk_in_0_p (rx_clk_in_0_p),
        .rx_clk_in_1_n (rx_clk_in_1_n),
